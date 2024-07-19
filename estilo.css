@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    border: 1px solid red;
+    
+}
+H1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    margin-left: 30%;
+}   
+p{
+    margin-left: 30%;
+}
+
+img{
+    border-radius: 90px;
+   
+    
+    margin-left: 39%;
+}
+#sobremi{
+    
+    width: 1000px;
+    margin-left: 190px;
+    background-color: aqua;
+}
+.interior{
+    width: 440px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid red;
+}
+#experiencia{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: bisque;
+}
+#tenis{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 500px;
+}
+.card{
+    text-align: center;
+    margin-left: 35%;
+    width: 400px;
+}
+.carousel-inner img {
+    max-height: 250px; /* Ajusta esta altura según tus necesidades */
+    object-fit: cover; /* Ajusta la imagen dentro del contenedor */
+    max-width: 250px;
+}
+
+
+
+
